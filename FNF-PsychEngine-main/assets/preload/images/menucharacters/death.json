@@ -1,0 +1,10 @@
+{
+	"idle_anim": "EVIL instance 1",
+	"image": "Menu_Death",
+	"position": [
+		11,
+		-90
+	],
+	"scale": 1.3,
+	"confirm_anim": "EVIL instance 1"
+}
